@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|c:\\users\\user\\documents\\github\\film_arsivi\\film_projesi\\film_projesi\\classes\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|solutionrelative:film_projesi\\classes\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|solutionrelative:film_projesi\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|solutionrelative:film_projesi\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\listele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|solutionrelative:film_projesi\\listele.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6BBAE3-2076-4CBD-8B12-AA871DFF64D8}|film_projesi\\film_projesi.csproj|solutionrelative:film_projesi\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Classes\\SQLConnectionClass.cs",
+              "RelativeDocumentMoniker": "film_projesi\\Classes\\SQLConnectionClass.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Classes\\SQLConnectionClass.cs",
+              "RelativeToolTip": "film_projesi\\Classes\\SQLConnectionClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T17:42:14.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "film_projesi\\Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Registration.aspx.cs",
+              "RelativeToolTip": "film_projesi\\Registration.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:24:24.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Registration.aspx",
+              "RelativeDocumentMoniker": "film_projesi\\Registration.aspx",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Registration.aspx",
+              "RelativeToolTip": "film_projesi\\Registration.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-10T07:24:13.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Listele.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Listele.aspx.cs",
+              "RelativeDocumentMoniker": "film_projesi\\Listele.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Listele.aspx.cs",
+              "RelativeToolTip": "film_projesi\\Listele.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:20:49.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "film_projesi\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\GitHub\\film_arsivi\\film_projesi\\film_projesi\\Login.aspx.cs",
+              "RelativeToolTip": "film_projesi\\Login.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:19:50.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
